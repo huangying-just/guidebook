@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'lscm'
-copyright = '2022, YingHuang'
-author = 'YingHuang'
+project = '全球供应链观察Global Supply Chain Watch'
+copyright = 'Spike H.'
+author = 'Spike H.'
 
 # The full version, including alpha/beta/rc tags
 release = '2022'
